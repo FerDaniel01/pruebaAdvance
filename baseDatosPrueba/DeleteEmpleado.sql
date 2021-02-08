@@ -1,0 +1,1 @@
+DELETE FROM `enterprises`.`employee` WHERE (`employeeid` = '3');
